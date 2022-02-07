@@ -1,0 +1,1 @@
+Module creates ec2 hosts, that are not in ASG. For example - bastion host in public subnet.
